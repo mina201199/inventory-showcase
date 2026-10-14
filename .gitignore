@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+node_modules/
+test-output/
+__pycache__/
+.wrangler/
+*.zip
+*.sqlite*
+*.db
+*.bak
+*.pem
+*.key
